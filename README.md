@@ -47,7 +47,7 @@ Unlock Generative Fill in Adobe Photoshop with Firefly AI. Generate, expand, or 
 ### 🖼 Preview
 
 Generative Fill in action inside Adobe Photoshop with Firefly AI  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://digitalsynopsis.com/wp-content/uploads/2023/05/adobe-firefly-generative-ai-in-photoshop-example-desert.jpg)  
 *Text-based image generation integrated into your workflow*
 
 ---
